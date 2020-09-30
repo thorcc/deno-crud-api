@@ -1,6 +1,6 @@
-export interface Product {
-    id: string;
+export interface Book {
+    isbn: string;
     name: string;
     description: string;
-    price: number;
+    pages: number;
 }
