@@ -6,19 +6,19 @@ let books: Book[] = [
         id: "1",
         name: "Book One",
         description: "This is book one",
-        pages: 29.99,
+        pages: 299,
     },
     {
         id: "2",
         name: "Book Two",
         description: "This is book two",
-        pages: 39.99,
+        pages: 300,
     },
     {
         id: "3",
         name: "Book Three",
         description: "This is book three",
-        pages: 49.99,
+        pages: 501,
     },
 ]
 
