@@ -2,6 +2,11 @@
 
 Simple Deno CRUD API-starter.
 
+- Create
+- Read
+- Update
+- Delete
+
 ## Modules
 
 - [OAK](https://deno.land/x/oak@v6.3.0)
